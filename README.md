@@ -18,35 +18,34 @@ techsolutions-website/
 │   ├── logo.png          # Logo de la empresa
 │   ├── hero-image.png    # Imagen principal del héroe
 │   ├── about-image.jpg   # Imagen de la sección "Sobre Nosotros"
-│   └── productos/        # Imágenes de productos
-│       ├── laptop.jpg
-│       ├── escritorio.jpg
-│       ├── monitor.jpg
-│       ├── servidor.jpg
-│       └── impresora.jpg
-│
+│   │
+│   ├── productos/        # Imágenes de productos
+│   │   ├── laptop.jpg
+│   │   ├── escritorio.jpg
+│   │   ├── monitor.jpg
+│   │   ├── servidor.jpg
+│   │   └── impresora.jpg
+│   │
 │   ├── testimonials/     # Imágenes de los clientes que dan testimonios
-│   ├── client1.jpg
-│   ├── client2.jpg
-│   └── client3.jpg
-│
+│   │   ├── cliente1.jpg
+│   │   ├── cliente2.jpg
+│   │   └── cliente3.jpg
+│   │
 │   ├── iconos/           # Iconos para servicios y contacto
-│   ├── computadora.svg
-│   ├── mantenimiento.svg
-│   ├── red.svg
-│   ├── seguridad.svg
-│   ├── nube.svg
-│   ├── móvil.svg
-│   ├── ubicación.svg
-│   ├── teléfono.svg
-│   ├── correo electrónico.svg
-│   └── reloj.svg
-│
+│   │   ├── computadora.svg
+│   │   ├── mantenimiento.svg
+│   │   ├── red.svg
+│   │   ├── seguridad.svg
+│   │   ├── nube.svg
+│   │   ├── móvil.svg
+│   │   ├── ubicación.svg
+│   │   ├── teléfono.svg
+│   │   ├── correo-electronico.svg
+│   │   └── reloj.svg
+│   │
 │   └── equipo/           # Fotos del equipo o empleados (opcional)
 │
 └── favicon.ico           # Favicon del sitio
-
-
 
 
 # Explicación detallada del resultado
