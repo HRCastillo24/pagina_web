@@ -7,8 +7,9 @@ Para implementar correctamente este sitio web, te recomiendo la siguiente estruc
 techsolutions-website/
 │
 ├── index.html            # Archivo HTML principal
+│
 ├── css/
-│   └── styles.css        # Estilos CSS (extraídos del <style> en el HTML)
+│   └── estilos.css       # Estilos CSS (extraídos del <style> en el HTML)
 │
 ├── js/
 │   └── main.js           # JavaScript (extraído del <script> en el HTML)
@@ -17,33 +18,34 @@ techsolutions-website/
 │   ├── logo.png          # Logo de la empresa
 │   ├── hero-image.png    # Imagen principal del héroe
 │   ├── about-image.jpg   # Imagen de la sección "Sobre Nosotros"
-│   ├── products/         # Imágenes de productos
-│   │   ├── laptop.jpg
-│   │   ├── desktop.jpg
-│   │   ├── monitor.jpg
-│   │   ├── server.jpg
-│   │   └── printer.jpg
-│   │
+│   └── productos/        # Imágenes de productos
+│       ├── laptop.jpg
+│       ├── escritorio.jpg
+│       ├── monitor.jpg
+│       ├── servidor.jpg
+│       └── impresora.jpg
+│
 │   ├── testimonials/     # Imágenes de los clientes que dan testimonios
-│   │   ├── client1.jpg
-│   │   ├── client2.jpg
-│   │   └── client3.jpg
-│   │
-│   ├── icons/            # Iconos para servicios y contacto
-│   │   ├── computer.svg
-│   │   ├── maintenance.svg
-│   │   ├── network.svg
-│   │   ├── security.svg
-│   │   ├── cloud.svg
-│   │   ├── mobile.svg
-│   │   ├── location.svg
-│   │   ├── phone.svg
-│   │   ├── email.svg
-│   │   └── clock.svg
-│   │
-│   └── team/             # Fotos del equipo o empleados (opcional)
+│   ├── client1.jpg
+│   ├── client2.jpg
+│   └── client3.jpg
+│
+│   ├── iconos/           # Iconos para servicios y contacto
+│   ├── computadora.svg
+│   ├── mantenimiento.svg
+│   ├── red.svg
+│   ├── seguridad.svg
+│   ├── nube.svg
+│   ├── móvil.svg
+│   ├── ubicación.svg
+│   ├── teléfono.svg
+│   ├── correo electrónico.svg
+│   └── reloj.svg
+│
+│   └── equipo/           # Fotos del equipo o empleados (opcional)
 │
 └── favicon.ico           # Favicon del sitio
+
 
 
 
