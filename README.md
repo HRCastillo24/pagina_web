@@ -4,6 +4,13 @@ Página web de una empresa tecnológica
 Estructura del Proyecto
 Para implementar correctamente este sitio web, te recomiendo la siguiente estructura de proyecto:
 
+# TechSolutions Website
+
+Este proyecto es un sitio web para una empresa tecnológica, diseñado para ofrecer una experiencia de usuario moderna, responsiva y optimizada. El sitio incluye diversas secciones para presentar los servicios, productos, testimonios y formas de contacto con la empresa.
+
+## Estructura del Proyecto
+
+```plaintext
 techsolutions-website/
 │
 ├── index.html            # Archivo HTML principal
@@ -18,19 +25,16 @@ techsolutions-website/
 │   ├── logo.png          # Logo de la empresa
 │   ├── hero-image.png    # Imagen principal del héroe
 │   ├── about-image.jpg   # Imagen de la sección "Sobre Nosotros"
-│   │
 │   ├── productos/        # Imágenes de productos
 │   │   ├── laptop.jpg
 │   │   ├── escritorio.jpg
 │   │   ├── monitor.jpg
 │   │   ├── servidor.jpg
 │   │   └── impresora.jpg
-│   │
 │   ├── testimonials/     # Imágenes de los clientes que dan testimonios
 │   │   ├── cliente1.jpg
 │   │   ├── cliente2.jpg
 │   │   └── cliente3.jpg
-│   │
 │   ├── iconos/           # Iconos para servicios y contacto
 │   │   ├── computadora.svg
 │   │   ├── mantenimiento.svg
@@ -42,7 +46,6 @@ techsolutions-website/
 │   │   ├── teléfono.svg
 │   │   ├── correo-electronico.svg
 │   │   └── reloj.svg
-│   │
 │   └── equipo/           # Fotos del equipo o empleados (opcional)
 │
 └── favicon.ico           # Favicon del sitio
